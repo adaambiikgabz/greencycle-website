@@ -1,4 +1,4 @@
-const WA = "233540572029";
+const WA = "233242999730";
 
 /* ---------- BEFORE/AFTER SLIDER ---------- */
 function buildSlider(el) {
@@ -88,7 +88,6 @@ function countUp(el) {
   el.dataset.done = '1';
   const target = +el.dataset.count;
   const suffix = el.dataset.suffix || '';
-  let cur = 0;
   const dur = 1400;
   const start = performance.now();
   function tick(now) {
