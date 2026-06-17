@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!--
+    This site uses hash-based client-side routing (#/, #/about, etc.)
+    All content is served from a single index.html at the root.
+    Update the <loc> domain once you have a live URL.
+  -->
+  <url>
+    <loc>https://greencyclesolutions.com/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
