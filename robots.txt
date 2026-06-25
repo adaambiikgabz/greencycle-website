@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://greencyclesolutions.com/sitemap.xml
+Sitemap: https://greencyclesolution.com/sitemap.xml
